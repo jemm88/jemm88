@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @jemm88
+- 👋 Hi, I’m Jeremy
 - 👀 I’m interested in data visualisation and machine learning stuffs
 - 🌱 I’m currently learning how to use plotly better and understanding data structures in numpy and pandas
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
 <!---
